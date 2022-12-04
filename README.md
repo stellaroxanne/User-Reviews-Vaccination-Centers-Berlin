@@ -34,7 +34,7 @@ o	closing of Tegel and Tempelhof 15/03/2021-18/03/2021 due to a temporary discon
   * Booking: Until July 2021 vaccination appointments had to be booked
   * Walk-Ins: Since July 23 for Tegel, Messe and Erika-Heß and July 30 for Arena and Velodrom Walk-In vaccinations are possible
   * Vaccines available: Different vaccines were offered at the vaccination from December 2020 to December 2021, including BioNTech/Pfizer’s Comirnaty, Moderna’s Spikevax and Astrazeneca’s Vaxzevira
-* In December 2021 the Messe Berlin vaccination center is moving next door to the ICC (International Congress Center) due to additional event space needed at the trade fair building Messe , the google maps review website has stayed the same
+* In December 2021 the Messe Berlin vaccination center moved next door to the ICC (International Congress Center) due to additional event space needed at the trade fair building Messe , the google maps review website has stayed the same
 
 
 Opening, closing
@@ -42,9 +42,9 @@ Opening, closing
 |---|---|---|---|
 |Arena| 	27.12.20|	31.08.21|	30.07.21|
 |Erika-Heß-Eisstadion|	14.01.21|	31.08.21|	23.07.21|
-|Flughafen Tegel|	10.02.21|	/	|23.07.21|
+|Flughafen Tegel|	10.02.21|	31.05.22	|23.07.21|
 |Flughafen Tempelhof|	08.03.21	|20.07.21|	/|
-|Messe|	18.01.21|	/	|23.07.21|
+|Messe|	18.01.21|	31.05.22	|23.07.21|
 |Velodrom|	17.02.21|	19.08.21	|30.07.21|
 
 ## Google Maps Online Reviews
