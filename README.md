@@ -1,6 +1,6 @@
 # User-Reviews-Vaccination-Centers-Berlin
 Analysis of Online Reviews from users of the Berlin vaccination centers
-### For questions contact: Stella Danek - stella.danek@charite.de
+##### For questions contact: Stella Danek - stella.danek@charite.de
 
 ## Objectives of the Project
 Using Online Reviews from Vaccination Centers to understand how users feel about vaccination centers, what dimensions and factors drives satisfaction or dissatisfaction and to derive factors for optimal vaccination center design.
